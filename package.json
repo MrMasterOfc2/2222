@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-pairing-system",
+  "version": "1.0.0",
+  "description": "WhatsApp Pairing System Frontend",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
